@@ -4,7 +4,6 @@
 
 **Shield** is a Chrome extension that passively overlays real-time rug pull risk scores on every Solana token across the web — and lets you **buy safe via cross-chain swap** or **block dangerous trades via AI agent skill**.
 
-Built for the [Solana Frontier Hackathon](https://colosseum.com).
 
 ---
 
