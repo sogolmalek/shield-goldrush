@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: shield-api
+    runtime: node
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: ALCHEMY_RPC
+        value: https://solana-mainnet.g.alchemy.com/v2/FE1Fd3x7PlqkZYxMqQpP3orTaf1dsmG4
+      - key: GOLDRUSH_API_KEY
+        value: cqt_rQVgy4MyC3CgJcgvVBR3BFgR9Dgm
